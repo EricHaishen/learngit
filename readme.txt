@@ -1,1 +1,2 @@
-GIT IS A GOOD free SOFTWARE
+GIT IS A distributed version control system.
+git is a free  software.
